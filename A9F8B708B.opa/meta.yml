@@ -1,0 +1,19 @@
+id: A9F8B708B
+title: 'BA: Gaṇḍavyūhasūtra'
+type: translation
+pechas:
+- I1B30B09B
+- I5A611905
+- I20096DD0
+source_metadata:
+  languages:
+  - zh
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 15:07:25.654830
+  last_modified_at: 2023-02-08 15:07:25.654846
+alignment_to_base:
+  I1B30B09B/0770: BAB8
+  I5A611905/8D94: BAB8
+  I20096DD0/7A44: BAB8
